@@ -1,0 +1,10 @@
+print("Zdravo SVETE 1") 
+print('Zdravo SVETE 2')
+#    print("Zdravo SVETE 3") 
+print("Zdravo SVETE 4") 
+#print("Zdravo SVETE 5')
+#print('Zdravo SVETE 6")
+print(7)
+#print(Zdravo SVETE 7)
+#print 42
+prin("Zdravo SVETE 8")
